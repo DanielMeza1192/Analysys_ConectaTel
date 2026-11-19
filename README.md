@@ -21,7 +21,8 @@ El desarrollo del proyecto comprende las siguientes etapas:
 - Conclusiones del proyecto
 
 Archivo `.ipynb`
-Abrir el archivo **`.ipynb`** en GitHub
+Abrir el archivo **`.ipynb`** en GitHub o visual estudio
+Descargar los datasets, ubicarlos en una carpeta local, y reproducir el archivo desde visualstudio, actualizando la ruta en donde se guarden los datasets
 Haz clic en  **Open in Colab**
 
 Abrir Analysis_ConnectaTel.ipynb
